@@ -15,4 +15,4 @@ Interested in Machine Learning, Backend Dev & Applied NLP
 Python • Node.js • MongoDB • FAISS • LangChain • Express • Ollama
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/dev-kumar-789a6127b/)
+[LinkedIn](https://www.linkedin.com/in/dev-789a6127b/)
